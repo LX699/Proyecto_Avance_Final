@@ -1,0 +1,8 @@
+PUT http://localhost:3000/api/resenas/update/60fdd27a7cdcd726241445e0 HTTP/1.1
+content-type: application/json
+
+{
+    //cambios
+    "titulo" : "Motorola 2 PLUS",
+    "categoria": ""
+}

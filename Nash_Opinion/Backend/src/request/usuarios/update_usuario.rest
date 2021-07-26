@@ -1,0 +1,7 @@
+PUT http://localhost:3000/api/update/60fe207c7bac840f784ea716 HTTP/1.1
+content-type: application/json
+
+{
+    //cambios
+    "contrasena":"123456"
+}
